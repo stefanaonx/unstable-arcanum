@@ -1,0 +1,9 @@
+{
+  "name": "unstable-arcana",
+  "version": "0.0.1",
+  "title": "Unstable Arcana",
+  "author": "DAWG",
+  "factorio_version": "0.18",
+  "dependencies": ["base >= 0.18"],
+  "description": "This mod adds a generator that gives passive power."
+}
